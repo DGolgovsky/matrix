@@ -49,7 +49,7 @@ Output the number of occupied cells. Output all occupied cells along with their 
 
 Detailed description on the [gh-pages](https://dgolgovsky.github.io/matrix/)
 
-**Example of Dockerfile**
+**Dockerfile**
 
 ```
 FROM ubuntu:trusty
@@ -65,7 +65,8 @@ RUN apt update
 RUN apt install -y libstdc++6 matrix
 ```
 
-# OTUS-Cpp
+**OTUS**
+
 OTUS C++ online [course](https://otus.ru/lessons/razrabotchik-c++/) studying repository.
 
 **About the course**
